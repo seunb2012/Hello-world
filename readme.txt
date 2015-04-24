@@ -11,3 +11,5 @@ my name is niebo.
 Git tracks changes.
 
 creat new branch.
+
+creating a new branch is quick and simple.

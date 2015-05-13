@@ -8,4 +8,5 @@ Git has a mutable index called stage.
 
 my name is niebo.
 
+i have make a new branch!
 Git tracks changes.

@@ -8,12 +8,24 @@ Git has a mutable index called stage.
 
 my name is niebo.
 
+<<<<<<< HEAD
+
+master insert
+=======
 i have make a new branch!
 
 
 test git
 
-niebo insert`
+
+>>>>>>> niebo
+
+
+
+
+
+
+
 
 
 new branch niebo test.

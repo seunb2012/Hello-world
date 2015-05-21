@@ -17,10 +17,9 @@ i have make a new branch!
 
 test git
 
-niebo insert`
+
 >>>>>>> niebo
 
-Niebo test;
 
 
 
